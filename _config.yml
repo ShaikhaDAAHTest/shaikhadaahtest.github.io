@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Shaikha AlNasri"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/IMportrait.png"
   bio    : "This is just a test site to demo forking!"
   links:
     - label: "Website"
