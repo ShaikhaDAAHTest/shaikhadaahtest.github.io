@@ -7,8 +7,10 @@ author_profile: false
 ## Cultural Heritage By the Numbers
 
 Introduction and purpose statement: 
-Part 1: Exploring the HAM website and the csv file of All Objects
 
+Usually, when completing an assignment that involves choosing items, ideas, or constructs for comparison, i would choose the 
+Going into this assignment, i wanted to take a unique approach that would 
+Part 1: Exploring the HAM website and the csv file of All Objects
 
 In order to keep my process randomized, I decided to use the csv file instead of exploring the HAM website. I generated a bunch of random numbers from the total number of objects, leaving me with these numbers that corresponded to the following objects on the csv file: 
 
@@ -37,10 +39,11 @@ Part 3: Using a choice of three cultures to build a word cloud
 
 I used the same randomizer to pick three cultures from the notebook list. I ended up with Cambodian, Czech, and Netherlandish. 
 
+![alt text](/assets/images/freqGraph.png)
+
 Looking at the bar graph, it is clear that Netherlandish artworks completely outweigh the other two cultures by a large amount. Cambodian artworks seem to be the least popular amongst the three with Czech artworks only outnumbering it by a small percentage. This could indicate a historic interest in Netherlandish art by American universities or reflect perhaps a more considerable availability of Netherlandish works.
 
-
-
+![alt text](/assets/images/timeSeries.png)
 
 The time series chart provides deeper insights into why these pieces might have been acquired and when. The exclusive acquisition of Cambodian artworks between 1959 and 1960 may be linked to specific events or expeditions during that period. It might also hint at a momentary fascination with or access to Cambodian art during those years.
 
@@ -50,11 +53,13 @@ When I first saw the Czech artworks' acquisition trend between 1995 and 2017, wi
 
 
 
-
-The Cambodian word cloud reflects Cambodia's rich historical and cultural heritage. Words like "Angkor" and "Wat" point to the iconic temple complexes of the ancient Khmer empire (Reynolds, 2023). "Rubbing," could be alluding to the popular technique of reproducing engraved designs, implies an interest in capturing and preserving the intricate details of Cambodian art. "elephant," "demon," "humans," and "dancing" are seen immediately when Cambodian artwork is searched up on the website, as most of the collection appears to be depicting scenes from ancient Cambodian stories or religious rituals.
+The Cambodian word cloud reflects Cambodia's rich historical and cultural heritage. Words like "Angkor" and "Wat" point to the iconic temple complexes of the ancient Khmer empire. [^1] "Rubbing," could be alluding to the popular technique of reproducing engraved designs, implies an interest in capturing and preserving the intricate details of Cambodian art. "elephant," "demon," "humans," and "dancing" are seen immediately when Cambodian artwork is searched up on the website, as most of the collection appears to be depicting scenes from ancient Cambodian stories or religious rituals.
 
 The frequent terms "Black," "white," "curved lines," "space," and "rectilinear" in the Czech word cloud point towards a strong emphasis on abstract, and perhaps modern or contemporary art forms. Terms like "four" and "stories" may hint at narrative techniques or the frequent use of seriality in the artworks.
 
-The emphasis in the Netherlandish word cloud is clearly religious, with words such as "Saint," "Christ," "Angel," and "Virgin." This aligns with the historical importance of religious scenes in Netherlandish art, especially during the Renaissance period (Netherlandish Renaissance Art, n.d.). Words like "Jacob," "Abraham," "Joseph," and "Creation" allude to biblical stories, indicating that these themes were frequently depicted in the artworks from this region.
+The emphasis in the Netherlandish word cloud is clearly religious, with words such as "Saint," "Christ," "Angel," and "Virgin." This aligns with the historical importance of religious scenes in Netherlandish art, especially during the Renaissance period. [^2] Words like "Jacob," "Abraham," "Joseph," and "Creation" allude to biblical stories, indicating that these themes were frequently depicted in the artworks from this region.
 
 Overall, these acquisition trends might suggest that while certain cultures like the Netherlandish have consistently been popular, others like the Cambodian and Czech have had moments of heightened interest.
+
+[^1]: Reynolds, F. E. (2023, September 29). Angkor | History, Location, & Facts | Britannica. https://www.britannica.com/place/Angkor
+[^2]: Netherlandish Renaissance Art. (n.d.). Retrieved October 2, 2023, from http://www.visual-arts-cork.com/history-of-art/netherlandish-renaissance.htm
