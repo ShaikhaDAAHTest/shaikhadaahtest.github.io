@@ -59,7 +59,7 @@ The Cambodian word cloud reflects Cambodia's rich historical and cultural herita
 
 ![alt text](/assets/images/aFilter3.png)
 
-The frequent terms "Black," "white," "curved lines," "space," and "rectilinear" in the Czech word cloud point towards a strong emphasis on abstract, and perhaps modern or contemporary art forms. Terms like "four" and "stories" may hint at narrative techniques or the frequent use of seriality in the artworks.
+The frequent terms "Black," "white," "curved lines," "space," and "rectilinear" in the Czech word cloud point towards a strong emphasis on abstract, and perhaps modern or contemporary art forms. Whats also likely is that the frequently found artist František Kupka could be a significant contributor to the word cloud. His style is very abstract, monochromatic, and involves an interplay between lines and space. It would be interesting to consider the possibility that one singular artist could be shaping the narrative of this entire culture as represented in the APA.
 
 ![alt text](/assets/images/aFilter1.png)
 
