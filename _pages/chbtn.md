@@ -55,7 +55,7 @@ When I first saw the Czech artworks' acquisition trend between 1995 and 2017, wi
 
 ![alt text](/assets/images/aFilter2.png)
 
-The Cambodian word cloud reflects Cambodia's rich historical and cultural heritage. Words like "Angkor" and "Wat" point to the iconic temple complexes of the ancient Khmer empire. [^1] "Rubbing," could be alluding to the popular technique of reproducing engraved designs, implies an interest in capturing and preserving the intricate details of Cambodian art. "elephant," "demon," "humans," and "dancing" are seen immediately when Cambodian artwork is searched up on the website, as most of the collection appears to be depicting scenes from ancient Cambodian stories or religious rituals.
+The Cambodian word cloud reflects Cambodia's rich historical and cultural heritage. Words like "Angkor" and "Wat" point to the iconic temple complexes of the ancient Khmer empire.[^1] "Rubbing," could be alluding to the popular technique of reproducing engraved designs, implies an interest in capturing and preserving the intricate details of Cambodian art. "elephant," "demon," "humans," and "dancing" are seen immediately when Cambodian artwork is searched up on the website, as most of the collection appears to be depicting scenes from ancient Cambodian stories or religious rituals.
 
 ![alt text](/assets/images/aFilter3.png)
 
@@ -63,7 +63,7 @@ The frequent terms "Black," "white," "curved lines," "space," and "rectilinear" 
 
 ![alt text](/assets/images/aFilter1.png)
 
-The emphasis in the Netherlandish word cloud is clearly religious, with words such as "Saint," "Christ," "Angel," and "Virgin." This aligns with the historical importance of religious scenes in Netherlandish art, especially during the Renaissance period. [^2] Words like "Jacob," "Abraham," "Joseph," and "Creation" allude to biblical stories, indicating that these themes were frequently depicted in the artworks from this region.
+The emphasis in the Netherlandish word cloud is clearly religious, with words such as "Saint," "Christ," "Angel," and "Virgin." This aligns with the historical importance of religious scenes in Netherlandish art, especially during the Renaissance period.[^2] Words like "Jacob," "Abraham," "Joseph," and "Creation" allude to biblical stories, indicating that these themes were frequently depicted in the artworks from this region.
 
 Overall, these acquisition trends might suggest that while certain cultures like the Netherlandish have consistently been popular, others like the Cambodian and Czech have had moments of heightened interest.
 
@@ -73,7 +73,7 @@ The diverse nature of the items chosen through random sampling offers a panorami
 
 The strong presence of Netherlandish artworks in the Harvard Art Museum hints at the enduring appeal and influence of European art in American academic institutions. It is essential, however, to understand this preference within a broader context. The prominence of Netherlandish art, especially religious works from the Renaissance, mirrors the significant role this period played in shaping art history. On the other hand, the limited number of Cambodian and Czech artworks in the museum may hint at the challenges faced in acquiring works from these regions or perhaps a narrower focus of past curatorial strategies.
 
-The time series patterns also shed light on the museum's responsiveness to global and local events. The focused acquisition of Cambodian artworks in the late '50s and early '60s might reflect geopolitical events, like the Cold War, that led Western institutions to engage more with Southeast Asian cultures. [^3] Similarly, the emphasis on Czech artist František Kupka could indicate a curatorial interest in a particular donor's inclination.
+The time series patterns also shed light on the museum's responsiveness to global and local events. The focused acquisition of Cambodian artworks in the late '50s and early '60s might reflect geopolitical events, like the Cold War, that led Western institutions to engage more with Southeast Asian cultures.[^3] Similarly, the emphasis on Czech artist František Kupka could indicate a curatorial interest in a particular donor's inclination.
 
 A noteworthy observation from the word clouds is the potential evolution of thematic focuses. The Cambodian word cloud points towards cultural and historical relics, indicating a desire to capture and document history. The Czech artworks, on the other hand, speak to a more abstract and perhaps modern sentiment. And the Netherlandish artworks, concentrated with religious symbolism, reveal the integral relationship between religion and art in European contexts.
 
@@ -81,6 +81,6 @@ Lastly, the museum's decision to catalog even fragmented artifacts, like sherds 
 
 In conclusion, museums are more than just collections of art; they are narratives, telling tales of their own evolution, of the cultures they represent. Random sampling, as an approach, highlighted the nuanced layers of the Harvard Art Museum's collection. While the Netherlandish, Cambodian, and Czech collections each bring their own elements, together they reveal a diverse whole that enriches our understanding of art, culture, and history.
 
-[^1]: Reynolds, F. E. (2023, September 29). Angkor | History, Location, & Facts | Britannica. https://www.britannica.com/place/Angkor
+[^1]: Reynolds, F. E. (2023, September 29). Angkor, History, Location, & Facts, Britannica. https://www.britannica.com/place/Angkor
 [^2]: Netherlandish Renaissance Art. (n.d.). Retrieved October 2, 2023, from http://www.visual-arts-cork.com/history-of-art/netherlandish-renaissance.htm
 [^3]: Jane de Hart Mathews. (1976). Art and Politics in Cold War America. The American Historical Review, 81(4), 762–787. https://doi.org/10.2307/1864779
