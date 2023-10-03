@@ -73,7 +73,7 @@ The diverse nature of the items chosen through random sampling offers a panorami
 
 The strong presence of Netherlandish artworks in the Harvard Art Museum hints at the enduring appeal and influence of European art in American academic institutions. It is essential, however, to understand this preference within a broader context. The prominence of Netherlandish art, especially religious works from the Renaissance, mirrors the significant role this period played in shaping art history. On the other hand, the limited number of Cambodian and Czech artworks in the museum may hint at the challenges faced in acquiring works from these regions or perhaps a narrower focus of past curatorial strategies.
 
-The time series patterns also shed light on the museum's responsiveness to global and local events. The focused acquisition of Cambodian artworks in the late '50s and early '60s might reflect geopolitical events, like the Cold War, that led Western institutions to engage more with Southeast Asian cultures. Similarly, the emphasis on Czech artist František Kupka could indicate a curatorial interest in a particular donor's inclination.
+The time series patterns also shed light on the museum's responsiveness to global and local events. The focused acquisition of Cambodian artworks in the late '50s and early '60s might reflect geopolitical events, like the Cold War, that led Western institutions to engage more with Southeast Asian cultures. [^3] Similarly, the emphasis on Czech artist František Kupka could indicate a curatorial interest in a particular donor's inclination.
 
 A noteworthy observation from the word clouds is the potential evolution of thematic focuses. The Cambodian word cloud points towards cultural and historical relics, indicating a desire to capture and document history. The Czech artworks, on the other hand, speak to a more abstract and perhaps modern sentiment. And the Netherlandish artworks, concentrated with religious symbolism, reveal the integral relationship between religion and art in European contexts.
 
@@ -83,3 +83,4 @@ In conclusion, museums are more than just collections of art; they are narrative
 
 [^1]: Reynolds, F. E. (2023, September 29). Angkor | History, Location, & Facts | Britannica. https://www.britannica.com/place/Angkor
 [^2]: Netherlandish Renaissance Art. (n.d.). Retrieved October 2, 2023, from http://www.visual-arts-cork.com/history-of-art/netherlandish-renaissance.htm
+[^3]: Jane de Hart Mathews. (1976). Art and Politics in Cold War America. The American Historical Review, 81(4), 762–787. https://doi.org/10.2307/1864779
