@@ -8,11 +8,13 @@ author_profile: false
 
 ### Introduction 
 
-Usually, when completing an assignment that involves choosing items, ideas, or constructs for comparison, I would choose the ones I feel most drawn to or that feel the most familiar to me. However, going into this assignment, I wanted to take a unique approach that would 
+Museums are not just repositories of art and artifacts but are also complex narratives of history, culture, and human interaction. While exploring the metadata from the Harvard Art Museum API, I was tempted, as many would be, to gravitate towards what I knew, what felt familiar, or what resonated personally. These preferences, albeit subconscious, often influence our research methods and the conclusions we derive from them. To counteract this inherent bias and to truly delve into the museum's collection with a fresh and unbiased lens, I took an unorthodox approach: random sampling.
+
+Instead of choosing cultures or items based on personal affinity or familiarity, I employed random sampling at each decision point in the assignment. This method allowed me to approach the data without any preconceived notions or expectations. In doing so, I hoped to shed light on unexpected patterns, overlooked trends, and new insights that might not surface in a more directed search.
 
 ### Part 1: Exploring the HAM website and the csv file of All Objects
 
-In order to keep my process randomized, I decided to use the csv file instead of exploring the HAM website. I generated a bunch of random numbers from the total number of objects, leaving me with these numbers that corresponded to the following objects on the csv file: 
+In order to keep my process randomized, I decided to use the csv file instead of exploring the HAM website. I generated a series of random numbers from the total number of objects, leaving me with these numbers that corresponded to the following objects on the csv file: 
 
 - 120216: [Holy Family,18th century,German](https://www.harvardartmuseums.org/collections/object/299295,https://nrs.harvard.edu/urn-3:HUAM:INV002077_dynmc)
 - 203756: [The Inner Pages,20th century,American](https://www.harvardartmuseums.org/collections/object/250621)
@@ -64,6 +66,20 @@ The frequent terms "Black," "white," "curved lines," "space," and "rectilinear" 
 The emphasis in the Netherlandish word cloud is clearly religious, with words such as "Saint," "Christ," "Angel," and "Virgin." This aligns with the historical importance of religious scenes in Netherlandish art, especially during the Renaissance period. [^2] Words like "Jacob," "Abraham," "Joseph," and "Creation" allude to biblical stories, indicating that these themes were frequently depicted in the artworks from this region.
 
 Overall, these acquisition trends might suggest that while certain cultures like the Netherlandish have consistently been popular, others like the Cambodian and Czech have had moments of heightened interest.
+
+### Discussion and Conclusion
+
+The diverse nature of the items chosen through random sampling offers a panoramic view of the museum's diverse collection. This approach unveiled several key takeaways about the collection strategies, preferences, and influence of historical and global events on the museum's acquisition patterns.
+
+The strong presence of Netherlandish artworks in the Harvard Art Museum hints at the enduring appeal and influence of European art in American academic institutions. It is essential, however, to understand this preference within a broader context. The prominence of Netherlandish art, especially religious works from the Renaissance, mirrors the significant role this period played in shaping art history. On the other hand, the limited number of Cambodian and Czech artworks in the museum may hint at the challenges faced in acquiring works from these regions or perhaps a narrower focus of past curatorial strategies.
+
+The time series patterns also shed light on the museum's responsiveness to global and local events. The focused acquisition of Cambodian artworks in the late '50s and early '60s might reflect geopolitical events, like the Cold War, that led Western institutions to engage more with Southeast Asian cultures. Similarly, the emphasis on Czech artist František Kupka could indicate a curatorial interest in a particular donor's inclination.
+
+A noteworthy observation from the word clouds is the potential evolution of thematic focuses. The Cambodian word cloud points towards cultural and historical relics, indicating a desire to capture and document history. The Czech artworks, on the other hand, speak to a more abstract and perhaps modern sentiment. And the Netherlandish artworks, concentrated with religious symbolism, reveal the integral relationship between religion and art in European contexts.
+
+Lastly, the museum's decision to catalog even fragmented artifacts, like sherds of ceramics, underscores the importance placed on preserving remnants of history. These fragments, though seemingly inconsequential, narrate concepts of creation, use, breakage, and, ultimately, survival through time.
+
+In conclusion, museums are more than just collections of art; they are narratives, telling tales of their own evolution, of the cultures they represent. Random sampling, as an approach, highlighted the nuanced layers of the Harvard Art Museum's collection. While the Netherlandish, Cambodian, and Czech collections each bring their own elements, together they reveal a diverse whole that enriches our understanding of art, culture, and history.
 
 [^1]: Reynolds, F. E. (2023, September 29). Angkor | History, Location, & Facts | Britannica. https://www.britannica.com/place/Angkor
 [^2]: Netherlandish Renaissance Art. (n.d.). Retrieved October 2, 2023, from http://www.visual-arts-cork.com/history-of-art/netherlandish-renaissance.htm
