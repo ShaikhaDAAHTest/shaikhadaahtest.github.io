@@ -128,10 +128,10 @@ This project, which involved mapping and analyzing the restaurants listed in "Fi
 [^3]: “Boulevard Adolphe Max Redevelopment,” August 24, 2021. https://www.brussels.be/boulevard-adolphe-max.
 [^4]: “Wivex.” In Wikipedia, the Free Encyclopedia, March 12, 2021. https://da.wikipedia.org/w/index.php?title=Wivex&oldid=10650570.
 [^5]: The Langelinie Pavillion. “Food.” Accessed November 25, 2023. https://langelinie.dk/en/food/.
-[^6]: VisitCopenhagen. “Copenhagen Zoo | Key Visitor Attraction in Copenhagen.” Accessed November 25, 2023. https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-zoo-gdk1077921.
+[^6]: VisitCopenhagen. “Copenhagen Zoo Key Visitor Attraction in Copenhagen.” Accessed November 25, 2023. https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-zoo-gdk1077921.
 [^7]: Lloyd, Hattie. “Arlington.” The Nudge London (blog), October 16, 2023. https://thenudge.com/london-restaurants/arlington/.
 [^8]: restaurantonline.co.uk. “Jeremy King to Relaunch Le Caprice Site as Arlington.” restaurantonline.co.uk, October 16, 2023. https://www.restaurantonline.co.uk/Article/2023/10/16/jeremy-king-to-relaunch-le-caprice-site-as-arlington.
-[^9]: “What’s in a Name? Le Caprice Becomes The Arlington | Harden’s,” October 20, 2023. https://www.hardens.com/uk-london/20-10-2023/whats-in-a-name-le-caprice-becomes-the-arlington/.
+[^9]: “What’s in a Name? Le Caprice Becomes The Arlington Harden’s,” October 20, 2023. https://www.hardens.com/uk-london/20-10-2023/whats-in-a-name-le-caprice-becomes-the-arlington/.
 [^10]: Yelp. “Pescatori Restaurant - London, XGL.” Accessed November 25, 2023. https://www.yelp.com/biz/pescatori-restaurant-london.
-[^11]: “Reservations | Zafferano Restaurant.” Accessed November 25, 2023. https://zafferanorestaurant.com/reservations/.
+[^11]: “Reservations Zafferano Restaurant.” Accessed November 25, 2023. https://zafferanorestaurant.com/reservations/.
 [^12]: Evening Standard. “The Former Pigalle Club Reopens in Piccadilly under New Name Of,” April 23, 2014. https://www.standard.co.uk/news/london/the-former-pigalle-club-reopens-in-piccadilly-under-new-name-of-werewolf-9277310.html.
