@@ -28,11 +28,19 @@ With the summaries in hand, I attempted to organize this information into a CSV 
 
 #### Geolocation and Visualization
 
-The final step in data preparation involved inputting the formatted data into Google Sheets, where it was organized into clearly defined columns. I then utilized the Geolocator extension to convert the textual location data into precise geographic coordinates, namely longitude and latitude values for each restaurant. This geocoded data was then exported as a CSV file and imported into Kepler.gl, a powerful tool for spatial data visualization.
+The final step in data preparation involved inputting the formatted data into Google Sheets, where it was organized into clearly defined columns. I then utilized the Geolocator extension to convert the textual location data into precise geographic coordinates, namely longitude and latitude values for each restaurant. 
 
-The culmination of this process was the creation of a detailed geospatial map. This map visually represented the distribution and key attributes of the restaurants across the four selected European regions, bringing to life the rich culinary landscapes of Austria, Belgium, Denmark, and England.
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkTflaEm-NwQ6tlFk6zbmljM8eXHbuHXnQfm_-RnxuOFaLTKu6-g7IPjvhOjiXNtz4SZNqJep3OVEW/pubhtml" width="800" height="1200"></iframe>
+
+This geocoded data was then exported as a CSV file and imported into Kepler.gl, a great, free tool for spatial data visualization. The culmination of this process was the creation of a detailed geospatial map. This map visually represented the distribution and key attributes of the restaurants across the four selected European regions, bringing to life the rich culinary landscapes of Austria, Belgium, Denmark, and England.
 
 ### Analyzing and Interpreting the Data
+
+![alt text](/assets/images/overall.png)
+![alt text](/assets/images/denmark.png)
+![alt text](/assets/images/england.png)
+![alt text](/assets/images/austria.png)
+![alt text](/assets/images/belgium.png)
 
 In order to analyze the data, I asked chatgpt to give me a list of questions I should aim to answer or ponder when looking at the details and geospatial data and to help me thoroughly analyze the data. I used the questions to create the following subsections for analysis:
 
